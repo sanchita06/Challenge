@@ -1,6 +1,6 @@
 Challenge1- Solution
 
-I have used below resources to cereat 3-tier architecture
+I have used below resources to create 3-tier architecture
 
 
 1. one VPC and 4 Subnets (2 Private and 2 public)
